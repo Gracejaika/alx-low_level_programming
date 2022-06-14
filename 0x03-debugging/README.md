@@ -1,1 +1,1 @@
-program prints the largest of three integers
+program that prints _putchar
